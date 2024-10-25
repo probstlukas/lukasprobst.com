@@ -1,4 +1,31 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lukasprobst.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Lukas Probst'
 theme = 'hugo-coder'
+
+[params]
+author = "Lukas Probst"
+info = ["CS Student @KIT", "Software Developer"]
+description = "Lukas Probst's Personal Website"
+keywords = "student,intern,kit,coding,learning,developer,technology,computer science"
+avatarURL = "images/profile.jpg"
+since = 2024
+colorScheme = "auto"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/probstlukas/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-2x fa-brands fa-linkedin"
+weight = 1
+url = "https://www.linkedin.com/in/lukas-probst/"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-brands fa-instagram"
+weight = 6
+url = "https://www.instagram.com/lukasprbst/"
