@@ -29,3 +29,15 @@ name = "Instagram"
 icon = "fa fa-2x fa-brands fa-instagram"
 weight = 6
 url = "https://www.instagram.com/lukasprbst/"
+
+[[params.social]]
+name = "Email"
+icon = "fa fa-2x fa-regular fa-envelope"
+weight = 6
+url = "mailto:info@lukasprobst.com?Subject=Hello"
+
+[[params.social]]
+name = "Resume"
+icon = "fa fa-2x fas fa-file-alt"
+weight = 6
+url = "/lukas_probst_cv_en.pdf/"
