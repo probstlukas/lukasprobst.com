@@ -1,43 +1,49 @@
-baseURL = 'https://lukasprobst.com/'
-languageCode = 'en-us'
+baseURL = 'https://lukasprobst.com'
+languageCode = 'en'
+defaultcontentlanguage = "en"
 title = 'Lukas Probst'
 theme = 'hugo-coder'
+enableEmoji = true
 
 [params]
-author = "Lukas Probst"
-info = ["CS Student @KIT", "Software Developer"]
-description = "Lukas Probst's Personal Website"
-keywords = "student,intern,kit,coding,learning,developer,technology,computer science"
-avatarURL = "images/profile.jpg"
-since = 2024
-colorScheme = "auto"
+    author = "Lukas Probst"
+    info = ["CS Student @KIT", "Software Developer"]
+    description = "Lukas Probst's Personal Website"
+    keywords = "student,intern,kit,coding,learning,developer,technology,computer science"
+    avatarURL = "images/profile.jpg"
+    since = 2024
+    colorScheme = "auto"
 
-[[params.social]]
-  name = "Github"
-  icon = "fa-brands fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/probstlukas/"
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    author = "authors"
 
+# Social links
 [[params.social]]
-name = "LinkedIn"
-icon = "fa-2x fa-brands fa-linkedin"
-weight = 1
-url = "https://www.linkedin.com/in/lukas-probst/"
-
+    name = "Github"
+    icon = "fa-brands fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/probstlukas"
 [[params.social]]
-name = "Instagram"
-icon = "fa fa-2x fa-brands fa-instagram"
-weight = 6
-url = "https://www.instagram.com/lukasprbst/"
-
+    name = "LinkedIn"
+    icon = "fa-2x fa-brands fa-linkedin"
+    weight = 1
+    url = "https://www.linkedin.com/in/lukas-probst"
 [[params.social]]
-name = "Email"
-icon = "fa fa-2x fa-regular fa-envelope"
-weight = 6
-url = "mailto:info@lukasprobst.com?Subject=Hello"
-
+    name = "Instagram"
+    icon = "fa fa-2x fa-brands fa-instagram"
+    weight = 6
+    url = "https://www.instagram.com/lukasprbst"
 [[params.social]]
-name = "Resume"
-icon = "fa fa-2x fas fa-file-alt"
-weight = 6
-url = "/lukas_probst_cv_en.pdf/"
+    name = "Email"
+    icon = "fa fa-2x fa-regular fa-envelope"
+    weight = 6
+    url = "mailto:info@lukasprobst.com?Subject=Hello"
+[[params.social]]
+    name = "Resume"
+    icon = "fa fa-2x fas fa-file-alt"
+    weight = 6
+    url = "lukas_probst_cv_en.pdf"
+    
