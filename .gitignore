@@ -1,0 +1,7 @@
+# macOS specific files
+.DS_Store
+**/.DS_Store
+
+# Generated content
+/public/
+/resources/_gen/
