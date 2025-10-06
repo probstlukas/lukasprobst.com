@@ -7,7 +7,7 @@ enableEmoji = true
 
 [params]
     author = "Lukas Probst"
-    info = ["MSc CS @ KIT", "Machine Learning @ Porsche"]
+    info = ["MSc CS @ KIT", "Machine Learning & Software Engineering"]
     description = "Lukas Probst's Personal Website"
     keywords = "student,intern,kit,coding,learning,developer,technology,computer science,ai,ml,swe"
     avatarURL = "images/profile.jpg"
