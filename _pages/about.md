@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a Master’s student in Computer Science at Karlsruhe Institute of Technology (KIT), with interests in machine learning, software engineering, and intelligent systems. I am particularly curious about research questions around reasoning, interpretability, and the reliable deployment of AI systems.
+Hi! I am a Master’s student in Computer Science at Karlsruhe Institute of Technology (KIT), with interests in machine learning, software engineering, and intelligent systems.
 
-Previously, I completed my bachelor’s degree in Computer Science at KIT and worked on projects spanning machine learning, robotics, and practical software engineering. Alongside academic work, I gained industry experience through internships, including at Porsche AG.
+Previously, I completed my bachelor’s degree in Computer Science at KIT and worked on projects spanning machine learning, robotics, computer vision, and practical software engineering. Alongside academic work, I gained industry experience through internships, including at Porsche AG.
 
 I am currently exploring master’s thesis opportunities and research collaborations, especially in areas related to machine learning and AI research. In general, I enjoy combining theoretical ideas with practical implementation.
 
