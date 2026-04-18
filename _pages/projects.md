@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 description: A selection of research, academic, and technical projects.
 nav: true
-nav_order: 3
-display_categories: [research, fun]
+nav_order: 2
+display_categories: [uni, fun]
 horizontal: false
 ---
 
