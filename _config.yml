@@ -4,14 +4,14 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Lukas
-middle_name: 
+middle_name:
 last_name: Probst
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: Lukas Probst, KIT, Karlsruhe Institute of Technology, MSc Computer Science, machine learning, software engineering, AI research, robotics,  NLP # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://lukasprobst.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -199,7 +199,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  
+
 keep_files:
   - CNAME
   - .nojekyll
