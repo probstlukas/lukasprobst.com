@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A selection of research, academic, and technical projects.
+description: A selection of academic and personal projects.
 nav: true
 nav_order: 2
 display_categories: [uni, fun]
