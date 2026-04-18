@@ -395,11 +395,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-integration-of-real-and-simulated-aloha-robots",
-          title: 'Integration of Real and Simulated ALOHA Robots',
+          section: "News",},{id: "projects-viscon-hackathon-zurich-2022",
+          title: 'VIScon Hackathon Zurich 2022',
+          description: "Anti-foodwaste app for VSETH events",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022_viscon_hackathon_zurich/";
+            },},{id: "projects-early-dementia-detection-from-speech",
+          title: 'Early Dementia Detection from Speech',
+          description: "NLP pipeline with Whisper transcription, GPT-3 embeddings, and machine learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023_gpt3_dementia_prediction/";
+            },},{id: "projects-real-and-simulated-aloha-robots",
+          title: 'Real and Simulated ALOHA Robots',
           description: "Imitation learning with teleoperation, simulation, and Movement Primitive Diffusion",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/alr_research_project/";
+              window.location.href = "/projects/2024_alr_research_project/";
+            },},{id: "projects-hack-nation-global-ai-hackathon-2025",
+          title: 'Hack-Nation Global AI Hackathon 2025',
+          description: "AI for Financial Document Analysis and Investment Strategy",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_hack_nation/";
+            },},{id: "projects-explainable-ai-for-robot-action-predictions",
+          title: 'Explainable AI for Robot Action Predictions',
+          description: "Research practical on graph-based explanations for imitation learning in robotics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_irl_research_project/";
+            },},{id: "projects-nasa-space-apps-challenge-2025",
+          title: 'NASA Space Apps Challenge 2025',
+          description: "Space Biology Knowledge Engine",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_nasa_space_apps_challenge/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
