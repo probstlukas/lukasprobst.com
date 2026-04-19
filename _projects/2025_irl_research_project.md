@@ -4,7 +4,7 @@ title: Explainable AI for Robot Action Predictions
 description: Research practical on graph-based explanations for imitation learning in robotics
 img: assets/img/projects/irl_research_project/GNNExplainer_no_node_mask.jpg
 importance: 1
-category: uni
+category: academic
 related_publications: false
 ---
 

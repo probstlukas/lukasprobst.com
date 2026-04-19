@@ -5,5 +5,5 @@ description: NLP pipeline with Whisper transcription, GPT-3 embeddings, and mach
 img: assets/img/projects/gpt3_dementia_detection/teco_logo.jpg
 redirect: https://github.com/probstlukas/gpt3-dementia-detection
 importance: 3
-category: uni
+category: academic
 ---

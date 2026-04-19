@@ -4,7 +4,7 @@ title: Real and Simulated ALOHA Robots
 description: Imitation learning with teleoperation, simulation, and Movement Primitive Diffusion
 img: assets/img/projects/alr_research_project/colliders_drawer_knob_view.png
 importance: 2
-category: uni
+category: academic
 related_publications: false
 ---
 
