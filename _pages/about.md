@@ -28,6 +28,4 @@ Hi! I am a Master’s student in Computer Science at Karlsruhe Institute of Tech
 
 Previously, I completed my bachelor’s degree in Computer Science at KIT and worked on projects spanning machine learning, robotics, computer vision, and practical software engineering. Alongside academic work, I gained industry experience through internships, including at Porsche AG.
 
-I am currently exploring master’s thesis opportunities and research collaborations, especially in areas related to machine learning and AI research. In general, I enjoy combining theoretical ideas with practical implementation.
-
 If you’d like to get in touch, feel free to reach out by email.
